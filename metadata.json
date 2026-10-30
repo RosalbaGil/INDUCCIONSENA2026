@@ -1,0 +1,6 @@
+{
+  "name": "Inducción SENA 360 - Gestión y Apropiación",
+  "description": "Plataforma de inducción para aprendices del SENA: identidad institucional, derechos y deberes, evaluación interactiva de apropiación y panel de gestión de instructores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
